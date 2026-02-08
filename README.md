@@ -50,7 +50,7 @@ This project implements:
 ---
 
 ## 📂 Project Structure
-
+```
 SmartRatelimiterAndAbuseDetector
 │
 ├── config
@@ -69,7 +69,7 @@ SmartRatelimiterAndAbuseDetector
 │
 └── SmartRatelimiterAndAbuseDetectorApplication.java
 
-
+```
 
 
 
